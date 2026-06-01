@@ -18,6 +18,8 @@ Depends:
     magclass (>= 6.11.0),
     mrcommons (>= 1.65.5),
     mrdrivers (>= 4.0.7),
+    mrenergy (>= 0.1.0),
+    mrenergycore (>= 0.2.0),
     mrremind (>= 0.199.1)
 Imports:
     brick (>= 0.8.0),
