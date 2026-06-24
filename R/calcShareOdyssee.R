@@ -25,7 +25,7 @@
 #' summarise .data syms bind_rows pull
 #' @importFrom tidyr separate replace_na complete
 #' @importFrom utils tail
-#' @importFrom mrenergycore toolSplitBiomass
+#' @importFrom mrcommonsenergy toolSplitBiomass
 #' @export
 
 calcShareOdyssee <- function(subtype = c("enduse", "carrier", "enduse_carrier"),

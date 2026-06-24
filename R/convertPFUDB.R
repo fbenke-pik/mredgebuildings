@@ -15,7 +15,7 @@
 #' @importFrom quitte as.quitte aggregate_map factor.data.frame
 #' @importFrom magclass as.magpie
 #' @importFrom madrat calcOutput toolGetMapping
-#' @importFrom mrenergycore toolSplitBiomass
+#' @importFrom mrcommonsenergy toolSplitBiomass
 #' @export
 
 

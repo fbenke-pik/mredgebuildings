@@ -20,7 +20,7 @@
 #' @importFrom tidyr replace_na
 #' @importFrom quitte revalue.levels as.quitte
 #' @importFrom magclass complete_magpie as.magpie
-#' @importFrom mrenergycore toolSplitBiomass
+#' @importFrom mrcommonsenergy toolSplitBiomass
 
 
 calcIEA_EEI <- function(subtype = c("buildings"), #nolint object_name_linter
