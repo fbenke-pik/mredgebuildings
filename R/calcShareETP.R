@@ -22,7 +22,7 @@
 #' @importFrom rlang .data syms
 #' @importFrom tidyr separate replace_na complete
 #' @importFrom utils tail
-#' @importFrom mrcommons toolSplitBiomass
+#' @importFrom mrcommonsenergy toolSplitBiomass
 #' @export
 
 calcShareETP <- function(subtype = c("enduse", "carrier"), feOnly = FALSE) {

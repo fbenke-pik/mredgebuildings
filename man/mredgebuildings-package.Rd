@@ -20,6 +20,7 @@ Useful links:
 
 Authors:
 \itemize{
+  \item Robin Hasse \email{robin.hasse@pik-potsdam.de} (\href{https://orcid.org/0000-0003-1818-3186}{ORCID})
   \item Pascal Sauer \email{pascal.sauer@pik-potsdam.de}
   \item Antoine Levesque
   \item Hagen Tockhorn

@@ -13,7 +13,7 @@ eur2usd(x = 1, year = 2020, iso3c = "DEU", ...)
 
 \item{iso3c}{region}
 
-\item{...}{further arguments to \link[GDPuc:convertGDP]{GDPuc::convertSingle}}
+\item{...}{further arguments to \link[GDPuc:convertSingle]{GDPuc::convertSingle}}
 }
 \value{
 value in constant 2017 US$MER
