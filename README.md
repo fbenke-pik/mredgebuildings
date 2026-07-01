@@ -46,7 +46,7 @@ A BibTeX entry for LaTeX users is
 @Misc{,
   title = {mredgebuildings: Prepare data to be used by the EDGE-Buildings model},
   author = {Robin Hasse and Pascal Sauer and Antoine Levesque and Hagen Tockhorn},
-  date = {2026-06-29},
+  date = {2026-07-01},
   year = {2026},
   url = {https://github.com/pik-piam/mredgebuildings},
   note = {Version: 0.15.10},
